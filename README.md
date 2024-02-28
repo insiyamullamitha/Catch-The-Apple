@@ -12,7 +12,7 @@ git clone https://github.com/insiyamullamitha/Catch-The-Apple.git
 ```
 3. Navigate to the **'game_solution.py'** file in the directory and run to start the game.
 ```
-python3 game_solution.py
+python game_solution.py
 ```
 
 ## Features ✨
